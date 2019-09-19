@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Caja Principal ADA 369", "PUNTO_DE_VENTA_MAGBRICORP\Caja Principal ADA 369.vbproj", "{3D253D30-3D15-4406-B17B-68E017F5F454}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Caja Principal ADA 369", "..\..\..\..\..\Punto de ventas\Caja-Principal-ada369-al-09-de-septiembre-2019\PUNTO_DE_VENTA_MAGBRICORP\PUNTO_DE_VENTA_MAGBRICORP\Caja Principal ADA 369.vbproj", "{3D253D30-3D15-4406-B17B-68E017F5F454}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
